@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
+  <remote name="github" fetch=".."/>
   <default revision="refs/heads/main" remote="github" />
   <project path="test1" name="gitrepotest1/test1" />
   <project path="test/2/test2" name="gitrepotest1/test2" />
